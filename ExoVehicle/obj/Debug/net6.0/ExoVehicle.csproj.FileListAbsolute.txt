@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\hachemi\mestests\ExoVehicle\ExoVehicle\bin\Debug\net6.0\ExoVehicle.exe
+C:\Users\HP\Desktop\hachemi\mestests\ExoVehicle\ExoVehicle\bin\Debug\net6.0\ExoVehicle.deps.json
+C:\Users\HP\Desktop\hachemi\mestests\ExoVehicle\ExoVehicle\bin\Debug\net6.0\ExoVehicle.runtimeconfig.json
+C:\Users\HP\Desktop\hachemi\mestests\ExoVehicle\ExoVehicle\bin\Debug\net6.0\ExoVehicle.dll
+C:\Users\HP\Desktop\hachemi\mestests\ExoVehicle\ExoVehicle\bin\Debug\net6.0\ExoVehicle.pdb
+C:\Users\HP\Desktop\hachemi\mestests\ExoVehicle\ExoVehicle\obj\Debug\net6.0\ExoVehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\hachemi\mestests\ExoVehicle\ExoVehicle\obj\Debug\net6.0\ExoVehicle.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\hachemi\mestests\ExoVehicle\ExoVehicle\obj\Debug\net6.0\ExoVehicle.AssemblyInfo.cs
+C:\Users\HP\Desktop\hachemi\mestests\ExoVehicle\ExoVehicle\obj\Debug\net6.0\ExoVehicle.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\hachemi\mestests\ExoVehicle\ExoVehicle\obj\Debug\net6.0\ExoVehicle.dll
+C:\Users\HP\Desktop\hachemi\mestests\ExoVehicle\ExoVehicle\obj\Debug\net6.0\refint\ExoVehicle.dll
+C:\Users\HP\Desktop\hachemi\mestests\ExoVehicle\ExoVehicle\obj\Debug\net6.0\ExoVehicle.pdb
+C:\Users\HP\Desktop\hachemi\mestests\ExoVehicle\ExoVehicle\obj\Debug\net6.0\ExoVehicle.genruntimeconfig.cache
+C:\Users\HP\Desktop\hachemi\mestests\ExoVehicle\ExoVehicle\obj\Debug\net6.0\ref\ExoVehicle.dll
